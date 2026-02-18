@@ -95,5 +95,4 @@ def start():
             
         else:
             print("Please enter number 1-5!")
-
 start()
